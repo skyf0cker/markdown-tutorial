@@ -157,19 +157,7 @@ r = request.get(url,headers)
 ![安排！](http://chuantu.biz/t6/355/1533781900x-1566688718.jpg '安排！')
 
 
-### （十）流程图
-#### （终于快完了...）
 
-(```)flow
-st=>start: 开始
-op=>operation: My Operation
-cond=>condition: Yes or No?
-e=>end
-st->op->cond
-cond(yes)->e
-cond(no)->op
-&```
----
 ## 总结
 
 - 首先，markdown真的棒，简单漂亮，功能强大
